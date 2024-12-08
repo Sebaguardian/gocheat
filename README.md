@@ -67,7 +67,7 @@ Colors for the Theme can be configured in `~/.config/gocheat/config.json`  in `"
     {
       "title": "Maximize window : meta + up",
       "tag": "Kwin"
-    },
+    }
   ],
   "styles": {
     "subtext": "#6c7086",
